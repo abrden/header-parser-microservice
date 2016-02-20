@@ -1,0 +1,32 @@
+{
+  "name": "header-parser-microservice",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp API Project: Header Parser Microservice",
+  "main": "server.js",
+  "dependencies": {
+    "async": "^0.2.10",
+    "express": "^3.21.2",
+    "socket.io": "^0.9.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrden/header-parser-microservice.git"
+  },
+  "keywords": [
+    "API",
+    "abrden",
+    "header",
+    "parser"
+  ],
+  "author": "Agustina (abrden) Barbetta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abrden/header-parser-microservice/issues"
+  },
+  "homepage": "https://github.com/abrden/header-parser-microservice#readme"
+}
