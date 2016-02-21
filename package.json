@@ -1,12 +1,10 @@
 {
   "name": "header-parser-microservice",
   "version": "1.0.0",
-  "description": "FreeCodeCamp API Project: Header Parser Microservice",
+  "description": "FreeCodeCamp API Project: Request Header Parser Microservice",
   "main": "server.js",
   "dependencies": {
-    "async": "^0.2.10",
-    "express": "^3.21.2",
-    "socket.io": "^0.9.17"
+    "express": "^4.13.4"
   },
   "devDependencies": {},
   "scripts": {
