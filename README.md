@@ -1,4 +1,4 @@
-# API: Header Parser Microservice
+# API: Request Header Parser Microservice
 [FCC API Projects Challenge](http://www.freecodecamp.com/challenges/request-header-parser-microservice)
 
 ## User Stories
